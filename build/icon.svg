@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <defs>
+    <linearGradient id="bg" x1="100" y1="100" x2="924" y2="924" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff9a4d"/>
+      <stop offset="1" stop-color="#d9440b"/>
+    </linearGradient>
+    <radialGradient id="gloss" cx="300" cy="180" r="700" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="125%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+  </defs>
+
+  <!-- Zemin -->
+  <rect x="100" y="114" width="824" height="824" rx="185" fill="#5a1d05" fill-opacity=".35" filter="url(#shadow)"/>
+  <rect x="100" y="100" width="824" height="824" rx="185" fill="url(#bg)"/>
+  <rect x="100" y="100" width="824" height="824" rx="185" fill="url(#gloss)"/>
+
+  <!-- RSS dalgaları -->
+  <circle cx="352" cy="672" r="66" fill="#ffffff"/>
+  <path d="M300 474 A250 250 0 0 1 550 724" fill="none" stroke="#ffffff" stroke-width="92" stroke-linecap="round"/>
+  <path d="M300 294 A430 430 0 0 1 730 724" fill="none" stroke="#ffffff" stroke-width="92" stroke-linecap="round"/>
+
+  <!-- Yeni yazı noktası -->
+  <circle cx="744" cy="282" r="84" fill="#ffd23f" stroke="#ffffff" stroke-width="26"/>
+</svg>

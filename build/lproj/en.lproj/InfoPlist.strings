@@ -1,0 +1,4 @@
+/* Finder, Launchpad, Dock ve menü çubuğunda görünen ad.
+   Paketin iç adı (Info.plist) ASCII "Akis" kalmalı: Electron, iç adda Türkçe karakter olunca açılışta çöküyor. */
+"CFBundleDisplayName" = "Akış";
+"CFBundleName" = "Akış";
