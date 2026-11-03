@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> **Akış is now Feedbell.** This repository is archived and no longer updated.
+> New home: **https://github.com/eminvergil/feedbell** · Latest release: https://github.com/eminvergil/feedbell/releases/latest
+> Feedbell copies your Akış subscriptions, settings and history on first launch.
+
 <p align="center">
   <img src="src/assets/icon.png" width="96" height="96" alt="">
 </p>

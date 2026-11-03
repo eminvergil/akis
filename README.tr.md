@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> **Akış'ın yeni adı Feedbell.** Bu repo arşivlendi, artık güncellenmiyor.
+> Yeni adres: **https://github.com/eminvergil/feedbell** · Son sürüm: https://github.com/eminvergil/feedbell/releases/latest
+> Feedbell, Akış'taki abonelikleri, ayarları ve geçmişi ilk açılışta kendiliğinden kopyalar.
+
 <p align="center">
   <img src="src/assets/icon.png" width="96" height="96" alt="">
 </p>
